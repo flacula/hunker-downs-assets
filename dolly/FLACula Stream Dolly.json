@@ -1,0 +1,1380 @@
+[
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 0.07698697,
+      "Y": 2.75912952,
+      "Z": 19.7120571
+    },
+    "Rotation": {
+      "X": 5.348374,
+      "Y": 333.7921,
+      "Z": 5.359418E-07
+    },
+    "FocalDistance": 2.0,
+    "Aperture": 15.0,
+    "Hue": 120.0,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 77.90517,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 2.0,
+    "Index": 0,
+    "PathIndex": 0
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -1.72194552,
+      "Y": 1.17520964,
+      "Z": 0.6011777
+    },
+    "Rotation": {
+      "X": 1.47777,
+      "Y": 1.23685622,
+      "Z": -1.10093374E-07
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 10.3231878,
+    "Index": 0,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 4.72595549,
+      "Y": 1.13585019,
+      "Z": 2.01110482
+    },
+    "Rotation": {
+      "X": 2.22423625,
+      "Y": 333.3368,
+      "Z": -5.3401088E-08
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 6.80379057,
+    "Index": 1,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 7.700062,
+      "Y": 0.9795159,
+      "Z": 6.73179865
+    },
+    "Rotation": {
+      "X": 3.32160139,
+      "Y": 284.133942,
+      "Z": 0.0
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 4.3453064,
+    "Index": 2,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 9.143009,
+      "Y": 1.28651488,
+      "Z": 15.2256432
+    },
+    "Rotation": {
+      "X": 2.40224433,
+      "Y": 253.908188,
+      "Z": 0.0
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 3.94860888,
+    "Index": 3,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 5.142011,
+      "Y": 1.28651488,
+      "Z": 18.7912521
+    },
+    "Rotation": {
+      "X": 0.190776333,
+      "Y": 194.95726,
+      "Z": -8.837941E-08
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 8.411746,
+    "Index": 4,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -4.682868,
+      "Y": 1.28651488,
+      "Z": 18.8751812
+    },
+    "Rotation": {
+      "X": 0.6446775,
+      "Y": 169.3122,
+      "Z": -1.00057932E-07
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 8.28937149,
+    "Index": 5,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -10.2943821,
+      "Y": 1.28651488,
+      "Z": 16.04994
+    },
+    "Rotation": {
+      "X": 1.52777493,
+      "Y": 126.112747,
+      "Z": 0.0
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 3.09534621,
+    "Index": 6,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -10.770256,
+      "Y": 1.28651488,
+      "Z": 6.09619474
+    },
+    "Rotation": {
+      "X": 2.19303226,
+      "Y": 63.86367,
+      "Z": -4.27199751E-07
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 4.75438,
+    "Index": 7,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -0.475038081,
+      "Y": 3.11527634,
+      "Z": 1.994205
+    },
+    "Rotation": {
+      "X": 10.6592627,
+      "Y": 359.282074,
+      "Z": -1.22170022E-07
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 6.96756649,
+    "Index": 8,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 6.574035,
+      "Y": 3.11527634,
+      "Z": 4.281249
+    },
+    "Rotation": {
+      "X": 9.458081,
+      "Y": 315.5586,
+      "Z": -2.16384919E-07
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 6.17618132,
+    "Index": 9,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 9.297758,
+      "Y": 3.11527634,
+      "Z": 11.6758308
+    },
+    "Rotation": {
+      "X": 12.75594,
+      "Y": 269.057953,
+      "Z": 0.0
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 2.0,
+    "Index": 10,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 4.397878,
+      "Y": 3.11527634,
+      "Z": 20.448204
+    },
+    "Rotation": {
+      "X": 12.6036491,
+      "Y": 212.50737,
+      "Z": 2.18713765E-07
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 5.273913,
+    "Index": 11,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -4.59343338,
+      "Y": 3.11527634,
+      "Z": 21.2056274
+    },
+    "Rotation": {
+      "X": 13.3513556,
+      "Y": 169.533859,
+      "Z": -1.09686276E-07
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 4.898864,
+    "Index": 12,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -10.9613228,
+      "Y": 3.11527634,
+      "Z": 16.7365837
+    },
+    "Rotation": {
+      "X": 13.8749132,
+      "Y": 118.609566,
+      "Z": 8.79433969E-07
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 2.0,
+    "Index": 13,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -11.4505043,
+      "Y": 3.11527634,
+      "Z": 7.998986
+    },
+    "Rotation": {
+      "X": 12.7480621,
+      "Y": 79.98538,
+      "Z": 0.0
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 7.07205725,
+    "Index": 14,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -6.23440647,
+      "Y": 3.11527634,
+      "Z": 1.25869131
+    },
+    "Rotation": {
+      "X": 15.2220516,
+      "Y": 20.96056,
+      "Z": -2.21204218E-07
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 6.66453934,
+    "Index": 15,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -0.7941239,
+      "Y": 2.06617475,
+      "Z": 0.7704128
+    },
+    "Rotation": {
+      "X": 1.01510072,
+      "Y": 0.0906541348,
+      "Z": -5.21183825E-11
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 8.059103,
+    "Index": 16,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 6.86882639,
+      "Y": 2.02007,
+      "Z": 4.27771139
+    },
+    "Rotation": {
+      "X": 3.10400367,
+      "Y": 319.354248,
+      "Z": -2.13757019E-07
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 5.600047,
+    "Index": 17,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 10.0099144,
+      "Y": 2.02007,
+      "Z": 11.1328945
+    },
+    "Rotation": {
+      "X": 4.222945,
+      "Y": 276.303864,
+      "Z": 4.28048935E-07
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 2.0,
+    "Index": 18,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 7.96106625,
+      "Y": 2.22680926,
+      "Z": 19.5919342
+    },
+    "Rotation": {
+      "X": 9.415696,
+      "Y": 228.008865,
+      "Z": 1.13114727
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 8.035564,
+    "Index": 19,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 4.208773,
+      "Y": 2.86825037,
+      "Z": 22.7338371
+    },
+    "Rotation": {
+      "X": 0.305351228,
+      "Y": 199.636765,
+      "Z": 357.4456
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 12.1125708,
+    "Index": 20,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -0.08027873,
+      "Y": 2.79297781,
+      "Z": 23.6804256
+    },
+    "Rotation": {
+      "X": 355.375732,
+      "Y": 176.833344,
+      "Z": 3.26882935
+    },
+    "FocalDistance": 1.50000012,
+    "Aperture": 15.0000029,
+    "Hue": 120.000023,
+    "Saturation": 100.000008,
+    "Lightness": 50.0000038,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000076,
+    "Exposure": 0.0,
+    "Speed": 3.00000024,
+    "Duration": 16.1051617,
+    "Index": 21,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -5.114075,
+      "Y": 2.83814669,
+      "Z": 21.7112446
+    },
+    "Rotation": {
+      "X": 2.92190075,
+      "Y": 142.4244,
+      "Z": 356.749969
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 11.5121756,
+    "Index": 22,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -10.1980009,
+      "Y": 2.80800176,
+      "Z": 17.70851
+    },
+    "Rotation": {
+      "X": 4.26755667,
+      "Y": 116.407326,
+      "Z": 0.0
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 2.0,
+    "Index": 23,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -11.3170319,
+      "Y": 2.80800176,
+      "Z": 10.2773743
+    },
+    "Rotation": {
+      "X": 4.110898,
+      "Y": 80.55806,
+      "Z": 0.0
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 5.55999374,
+    "Index": 24,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -5.785537,
+      "Y": 2.80800176,
+      "Z": 3.3387897
+    },
+    "Rotation": {
+      "X": 9.800164,
+      "Y": 15.3084106,
+      "Z": 0.0
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 5.55999374,
+    "Index": 25,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 1.23537123,
+      "Y": 2.80800176,
+      "Z": 3.179137
+    },
+    "Rotation": {
+      "X": 13.7083235,
+      "Y": 349.1286,
+      "Z": -1.09850838E-07
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 5.55999374,
+    "Index": 26,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 1.90544522,
+      "Y": 3.73761034,
+      "Z": 10.2625914
+    },
+    "Rotation": {
+      "X": 22.3327255,
+      "Y": 358.9607,
+      "Z": 0.0
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 5.55999374,
+    "Index": 27,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 4.107769,
+      "Y": 4.659556,
+      "Z": 20.2645245
+    },
+    "Rotation": {
+      "X": 24.505827,
+      "Y": 306.536255,
+      "Z": 0.0
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 10.6435814,
+    "Index": 28,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -0.92545414,
+      "Y": 2.91007447,
+      "Z": 19.0454
+    },
+    "Rotation": {
+      "X": 3.95478034,
+      "Y": 0.367441326,
+      "Z": 1.67150671E-09
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 13.7600479,
+    "Index": 29,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -4.55935335,
+      "Y": 3.85175467,
+      "Z": 20.1341934
+    },
+    "Rotation": {
+      "X": 19.47663,
+      "Y": 58.490242,
+      "Z": 9.055939E-07
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 10.4897165,
+    "Index": 30,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -8.181933,
+      "Y": 4.66466665,
+      "Z": 18.6941757
+    },
+    "Rotation": {
+      "X": 25.3250637,
+      "Y": 138.740677,
+      "Z": 9.44549E-07
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 5.55999374,
+    "Index": 31,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -0.873436868,
+      "Y": 1.81054008,
+      "Z": 19.2697487
+    },
+    "Rotation": {
+      "X": 9.795849,
+      "Y": 181.05777,
+      "Z": -6.76879441E-09
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 5.55999374,
+    "Index": 32,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 6.63974667,
+      "Y": 3.67227721,
+      "Z": 18.531395
+    },
+    "Rotation": {
+      "X": 20.9704533,
+      "Y": 200.407074,
+      "Z": 2.28583616E-07
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 5.55999374,
+    "Index": 33,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 10.0802469,
+      "Y": 3.67227721,
+      "Z": 9.03478
+    },
+    "Rotation": {
+      "X": 21.1188889,
+      "Y": 280.806061,
+      "Z": 0.0
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 5.55999374,
+    "Index": 34,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 4.057057,
+      "Y": 3.67227721,
+      "Z": 2.55824852
+    },
+    "Rotation": {
+      "X": 3.26555324,
+      "Y": 342.980927,
+      "Z": 5.344764E-07
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 5.55999374,
+    "Index": 35,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -1.51801026,
+      "Y": 3.67227721,
+      "Z": 2.048903
+    },
+    "Rotation": {
+      "X": 2.05756927,
+      "Y": 2.090783,
+      "Z": 0.0
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 5.55999374,
+    "Index": 36,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -9.8382,
+      "Y": 6.34275961,
+      "Z": 3.51230431
+    },
+    "Rotation": {
+      "X": 26.5024529,
+      "Y": 48.2902,
+      "Z": -9.540274E-07
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 5.55999374,
+    "Index": 37,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -12.4095421,
+      "Y": 6.34275961,
+      "Z": 11.4967117
+    },
+    "Rotation": {
+      "X": 27.40137,
+      "Y": 93.8912354,
+      "Z": 1.923337E-06
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 5.55999374,
+    "Index": 38,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -6.34955168,
+      "Y": 6.34275961,
+      "Z": 20.70066
+    },
+    "Rotation": {
+      "X": 25.6004066,
+      "Y": 156.1422,
+      "Z": 0.0
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 5.55999374,
+    "Index": 39,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 2.64748836,
+      "Y": 6.34275961,
+      "Z": 21.1906776
+    },
+    "Rotation": {
+      "X": 24.2493935,
+      "Y": 199.198608,
+      "Z": 0.0
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 5.55999374,
+    "Index": 40,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 10.91113,
+      "Y": 6.12839937,
+      "Z": 14.7940483
+    },
+    "Rotation": {
+      "X": 18.7730446,
+      "Y": 252.147736,
+      "Z": 9.017458E-07
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 4.31264734,
+    "Index": 41,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": 7.230348,
+      "Y": 5.83486557,
+      "Z": -1.64064217
+    },
+    "Rotation": {
+      "X": 15.02151,
+      "Y": 332.0219,
+      "Z": 0.0
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 6.502783,
+    "Index": 42,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -0.834597647,
+      "Y": 6.13460827,
+      "Z": -9.124324
+    },
+    "Rotation": {
+      "X": 6.619447,
+      "Y": 1.42573845,
+      "Z": -6.71487E-09
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 7.036403,
+    "Index": 43,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -10.44047,
+      "Y": 6.38201046,
+      "Z": -9.844329
+    },
+    "Rotation": {
+      "X": 7.517838,
+      "Y": 26.474493,
+      "Z": -1.07647018E-07
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 1.7192055,
+    "Index": 44,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -12.9230165,
+      "Y": 5.005029,
+      "Z": -7.883858
+    },
+    "Rotation": {
+      "X": 37.5925026,
+      "Y": 0.372728527,
+      "Z": 0.0
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 1.09628117,
+    "Index": 45,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -12.8871632,
+      "Y": 1.92210066,
+      "Z": -3.35969424
+    },
+    "Rotation": {
+      "X": 12.4673433,
+      "Y": 2.47369719,
+      "Z": 0.0
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 2.18824339,
+    "Index": 46,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -12.24009,
+      "Y": 1.58242989,
+      "Z": 1.176757
+    },
+    "Rotation": {
+      "X": 347.052643,
+      "Y": 41.78258,
+      "Z": 359.958923
+    },
+    "FocalDistance": 1.5,
+    "Aperture": 15.000001,
+    "Hue": 120.000008,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 3.0,
+    "Duration": 8.470193,
+    "Index": 47,
+    "PathIndex": 1
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -1.5552665,
+      "Y": 3.28538847,
+      "Z": 23.6959229
+    },
+    "Rotation": {
+      "X": 8.769141,
+      "Y": 177.347687,
+      "Z": -4.049399E-08
+    },
+    "FocalDistance": 1.50000012,
+    "Aperture": 15.0,
+    "Hue": 120.0,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 5.23303366,
+    "Duration": 60.0,
+    "Index": 0,
+    "PathIndex": 2
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -1.5552665,
+      "Y": 3.28538847,
+      "Z": 23.6959229
+    },
+    "Rotation": {
+      "X": 8.769141,
+      "Y": 177.347687,
+      "Z": -4.049399E-08
+    },
+    "FocalDistance": 1.50000012,
+    "Aperture": 15.0,
+    "Hue": 120.0,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 5.23303366,
+    "Duration": 2.0,
+    "Index": 1,
+    "PathIndex": 2
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -1.98196554,
+      "Y": 3.249598,
+      "Z": 23.3487473
+    },
+    "Rotation": {
+      "X": 6.807809,
+      "Y": 177.47493,
+      "Z": 0.0
+    },
+    "FocalDistance": 1.50000012,
+    "Aperture": 15.0,
+    "Hue": 120.0,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 5.23303366,
+    "Duration": 60.0,
+    "Index": 2,
+    "PathIndex": 2
+  },
+  {
+    "IsLocal": false,
+    "Position": {
+      "X": -1.99669278,
+      "Y": 3.28877068,
+      "Z": 23.68025
+    },
+    "Rotation": {
+      "X": 6.73237133,
+      "Y": 177.775,
+      "Z": 2.68656741E-08
+    },
+    "FocalDistance": 1.50000012,
+    "Aperture": 15.0,
+    "Hue": 120.0,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0000038,
+    "Exposure": 0.0,
+    "Speed": 5.23303366,
+    "Duration": 60.0,
+    "Index": 3,
+    "PathIndex": 2
+  }
+]
